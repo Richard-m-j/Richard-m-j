@@ -2,10 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Richard-m-j&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Richard-m-j&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">🤖 As a dedicated Machine Learning enthusiast, I'm on a mission to unravel the mysteries of AI and its endless possibilities. From neural networks to natural language processing, I love diving deep into algorithms that power intelligent systems.<br><br>🎨 With a keen eye for design, I bring a touch of creativity to the world of UI/UX. Crafting seamless and intuitive user experiences is my forte, turning complex concepts into elegant interfaces that users love.<br><br>💻 When I'm not experimenting with ML models or refining user journeys, you can find me immersed in the world of competitive programming. Solving intricate coding challenges and sharpening my algorithmic skills is where I find my coding zen.<br><br>🌟 Let's connect and collaborate on projects that push boundaries, disrupt norms, and create meaningful impacts. Feel free to explore my repositories and reach out for discussions, brainstorming, or just a geeky chat about the latest tech trends.<br><br>📚 Lifelong learner, tech explorer, and problem solver - that's me, Richard Joseph. Join me on this exciting journey of innovation and growth!</p>
 
 ###
 
@@ -87,15 +84,16 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Richard-m-j&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Richard-m-j&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/jujustu-kaisen-icegif-1.gif"  />
 
 ###
-
-<p align="left">🤖 As a dedicated Machine Learning enthusiast, I'm on a mission to unravel the mysteries of AI and its endless possibilities. From neural networks to natural language processing, I love diving deep into algorithms that power intelligent systems.<br><br>🎨 With a keen eye for design, I bring a touch of creativity to the world of UI/UX. Crafting seamless and intuitive user experiences is my forte, turning complex concepts into elegant interfaces that users love.<br><br>💻 When I'm not experimenting with ML models or refining user journeys, you can find me immersed in the world of competitive programming. Solving intricate coding challenges and sharpening my algorithmic skills is where I find my coding zen.<br><br>🌟 Let's connect and collaborate on projects that push boundaries, disrupt norms, and create meaningful impacts. Feel free to explore my repositories and reach out for discussions, brainstorming, or just a geeky chat about the latest tech trends.<br><br>📚 Lifelong learner, tech explorer, and problem solver - that's me, Richard Joseph. Join me on this exciting journey of innovation and growth!</p>
-
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Richard-m-j/Richard-m-j/output/snake.svg" alt="Snake animation" />
 
