@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="richard_m_j" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -20,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
@@ -91,10 +91,9 @@
 
 ###
 
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/jujustu-kaisen-icegif-1.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Richard-m-j/Richard-m-j/output/snake.svg" alt="Snake animation" />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Richard-m-j/Richard-m-j/output/snake.svg" alt="Snake animation" width="70%">
+  <img src="https://www.icegif.com/wp-content/uploads/jujustu-kaisen-icegif-1.gif" alt="Jujustu Kaisen GIF" width="25%">
+</div>
 
 ###
