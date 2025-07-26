@@ -1,4 +1,4 @@
-<h3 align="left">🚀 Welcome to my GitHub profile! 🚀<br>Passionate Machine Learning Enthusiast | UI/UX Aficionado | Competitive Programming Enthusiast</h3>
+<h3 align="left">🚀 Welcome to my GitHub profile! 🚀<br>Passionate Machine Learning Enthusiast | Competitive Programming Enthusiast</h3>
 
 ###
 
